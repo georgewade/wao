@@ -1,0 +1,173 @@
+/*======= index.html =======*/
+#page1 #header {background:url(images/header.html) 0 bottom no-repeat;}
+
+#page1 .box {width:696px; background:#fdfdfd;}
+#page1 .box .tail-left {background:url(images/box1-tail-left.gif) 0 0 repeat-y;}
+#page1 .box .tail-right {background:url(images/box1-tail-right.gif) right 0 repeat-y;}
+#page1 .box .tail-bot {background:url(images/box1-tail-bot.gif) 0 bottom repeat-x;}
+#page1 .box .tail-top {background:#fdfdfd;}
+#page1 .box .corner-top-left {background:url(images/box1-corner-top-left.html) 0 0 no-repeat;}
+#page1 .box .corner-top-right {background:url(images/box1-corner-top-right.gif) right 0 no-repeat;}
+#page1 .box .corner-bot-left {background:url(images/box1-corner-bot-left.gif) 0 bottom no-repeat;}
+#page1 .box .corner-bot-right {background:url(images/box1-corner-bot-right.gif) right bottom no-repeat;}
+#page1 .box a:hover {color:#000;}
+#page1 .box .padding {padding:28px 40px 33px 42px;}
+#page1 .box img {position:relative;}
+
+#page1 #content .col-1 {
+	width:655px;
+	margin-right:33px;
+	padding-left: 0px;
+}
+#page1 #content .col-2 {width:242px;}
+
+#page1 #content .row-2 .col-1 {width:209px; margin-right:12px;}
+#page1 #content .row-2 .col-2 {width:209px; margin-right:12px;}
+#page1 #content .row-2 .col-3 {width:209px;}
+
+/*======= index-1.html =======*/
+#page2 #content .col-2 .row-1 .padding {padding:31px 0px 0px 6px;}
+
+#page2 #content .col-1 {width:699px; margin-right:19px;}
+#page2 #content .col-2 {width:242px;}
+
+#page2 #content .row-2 .col-1 {width:305px; margin-right:40px;}
+#page2 #content .row-2 .col-2 {width:295px;}
+
+/*======= index-2.html =======*/
+#page3 #header {background:<h3>Specialized Programs</h3>
+                                    <p class="text-1 reg indent-bot">
+                                    	Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis. Donec porta diam eu massa.
+                                    </p>;}
+
+#page3 #content .col-1 {width:699px; margin-right:19px;}
+#page3 #content .col-2 {width:242px;}
+
+/*======= privacy.html =======*/
+#privacy #content .col-1 {width:699px; margin-right:19px;}
+#privacy #content .col-2 {width:242px;}
+
+#privacy #content .row-2 .col-1 {width:209px; margin-right:12px;}
+#privacy #content .row-2 .col-2 {width:209px; margin-right:12px;}
+#privacy #content .row-2 .col-3 {width:209px;}
+
+/*======= index-4.html =======*/
+#page5 #header {background:url(images/header-4.html) 0 bottom no-repeat;}
+
+#page5 #content .col-1 .row-1 .padding {padding:31px 0px 0px 15px;}
+#page5 #content .col-2 .row-1 .padding {padding:31px 0px 0px 6px;}
+
+#page5 .row-2 .box .padding {padding:28px 40px 33px 42px;}
+
+#page5 #content .col-1 {width:699px; margin-right:19px;}
+#page5 #content .col-2 {width:242px;}
+
+#page5 #content .row-1 .col-1 {width:305px; margin-right:40px;}
+#page5 #content .row-1 .col-2 {width:295px;}
+
+/*======= index-5.html =======*/
+#page6 #header {}
+
+#page6 #content .col-1 {width:699px; margin-right:19px;}
+#page6 #content .col-2 {width:242px;}
+
+/*======= index-6.html =======*/
+#page7 #header {background:url() 0 bottom no-repeat;}
+
+#page7 #content .col-1 {width:699px; margin-right:19px;}
+#page7 #content .col-2 {width:242px;}
+
+#page7 #content .row-2 .col-1 {width:285px;}
+#page7 #content .row-2 .col-2 {width:285px;}
+
+/*======= index-6.html =======*/
+#page8 #content .padding {padding:31px 20px 5px 15px;}
+
+/*======= library_resources.html =======*/
+#pagelibrary #header {height:170px; width:100%;}
+#pagelibrary #header {0 bottom no-repeat;}
+
+#pagelibrary #content .col-1 {
+	width:100%;
+	margin-right:19px;
+}
+
+#pagelibrary #content .col-2 {width:242px;}
+
+#pagelibrary #content .row-2 .col-1 {width:209px; margin-right:12px;}
+#pagelibrary #content .row-2 .col-2 {width:209px; margin-right:12px;}
+#pagelibrary #content .row-2 .col-3 {width:209px;}
+
+/*======= about_us.html =======*/
+#pageaboutus #header {height:170px; width:100%;}
+#pageaboutus #header {0 bottom no-repeat;}
+
+/*======= contacts.html =======*/
+#pagecontacts #header {height:170px; width:100%;}
+#pagecontacts #header {0 bottom no-repeat;}
+
+#pagecontacts #content .col-1 .row-1 .padding {padding:31px 0px 0px 15px;}
+#pagecontacts #content .col-2 .row-1 .padding {padding:31px 0px 0px 6px;}
+
+#pagecontacts .row-2 .box .padding {padding:28px 40px 33px 42px;}
+
+#pagecontacts #content .col-1 {
+	width:100%;
+	margin-right:19px;
+}
+#pagecontacts #content .col-2 {width:242px;}
+
+#pagecontacts #content .row-1 .col-1 {width:305px; margin-right:40px;}
+#pagecontacts #content .row-1 .col-2 {
+	width:100%;
+}
+
+/*======= mission_services.html =======*/
+#pagepagemission_services  #header {height:170px; width:100%;}
+#pageaboutus #header {0 bottom no-repeat;}
+
+#pagemission_services #content .col-1 .row-1 .padding {padding:31px 0px 0px 15px;}
+#pagemission_services #content .col-2 .row-1 .padding {padding:31px 0px 0px 6px;}
+
+#pagemission_services .row-2 .box .padding {padding:28px 40px 33px 42px;}
+
+#pagemission_services #content .col-1 {width:699px; margin-right:19px;}
+#pagemission_services #content .col-2 {width:242px;}
+
+#pagemission_services #content .row-1 .col-1 {width:305px; margin-right:40px;}
+#pagemission_services #content .row-1 .col-2 {width:295px;}
+
+
+
+/* main */
+#abiities #.main { padding:0; margin:0 auto;}
+
+/* Ca3er style */
+#abiities #.cu3er_resize { width:960px; margin:0 auto; padding:0 0 37px 0; background: url(images/simple_bg.gif) no-repeat bottom;}
+#abiities #cu3er-container { width:960px; outline:0;}
+/********** body **********/
+#abiities #.body_resize { margin:0; padding:0; background:#f0f0f0;}
+#abiities #.body { width:960px; margin:0 auto; padding:10px 0;}
+#abiities #.body h2 { font: normal 24px Arial, Helvetica, sans-serif; color:#454545; margin:0; padding:15px 0;}
+#abiities #.body img { padding:0; margin:10px auto;}
+#abiities #.body img.floated { float:left; padding:0; margin:10px 15px 10px 0;}
+#abiities #.body p { font:normal 12px Arial, Helvetica, sans-serif; color:#838383; line-height:1.5em; padding:5px 0; margin:0;}
+#abiities #.body p span { font: bold 12px Arial, Helvetica, sans-serif; color:#277fc2;}
+#abiities #.body a { text-decoration:underline; color:#008ac3;}
+#abiities #.right { width:290px; float:right; padding:15px; margin:0;}
+#abiities #.left { width:610px; float:left; padding:15px; margin:0;}
+#abiities #.full { padding:5px 15px; margin:0;}
+#abiities #.block { width:231px; float:left; margin:10px 5px 10px 1px; padding:10px 0;}
+.port_resize {
+	width:290px;
+	float:left;
+	margin:0;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+#abiities #.body ul { list-style:none; margin:10px; padding:0;}
+#abiities #.body li { background:url(images/ul_li.html) left no-repeat; font: bold 12px Arial, Helvetica, sans-serif; color:#008ac3; padding:3px 0 3px 15px;}
+.submarine_collast {
+}
